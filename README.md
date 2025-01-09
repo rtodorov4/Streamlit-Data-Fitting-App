@@ -1,4 +1,4 @@
-Description
+##Description /n
 A streamlit-based data fiting and analysis app. It has features such as: polynomial, exponential and natural logaritmic curve fitting, and statistical distributions
 
 What was learned
