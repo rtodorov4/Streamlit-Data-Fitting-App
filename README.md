@@ -6,36 +6,36 @@ This Curve Fitting App, built with Python and Streamlit, allows users to visuali
 
 ### Interactive Data Entry:
 
-Manual input of x and y values.
+ - Manual input of x and y values.
 
-Upload CSV files to import datasets.
+ - Upload CSV files to import datasets.
 
-Rename chart titles and axes.
+ - Rename chart titles and axes.
 
 ### Curve Fitting Options:
 
-Polynomial Fit: Fit data to a polynomial of user-defined degree.
+ - Polynomial Fit: Fit data to a polynomial of user-defined degree.
 
-Exponential Fit: Fit data to an exponential curve (y = ae^(bx)).
+ - Exponential Fit: Fit data to an exponential curve (y = ae^(bx)).
 
-Natural Logarithmic Fit: Fit data to a logarithmic curve (y = a + b ln(x)).
+ - Natural Logarithmic Fit: Fit data to a logarithmic curve (y = a + b ln(x)).
 
-Statistical Distribution Fit: Visualize data distributions with Gaussian curves.
+ - Statistical Distribution Fit: Visualize data distributions with Gaussian curves.
 
 ### Error Analysis:
 
-Calculates Maximum Error, Minimum Error, and Mean Absolute Error (MAE) for fitted curves.
+ - Calculates Maximum Error, Minimum Error, and Mean Absolute Error (MAE) for fitted curves.
 
-Displays error bands to visualize the range of deviation.
+ - Displays error bands to visualize the range of deviation.
 
 ### Dynamic Plotting:
 
-Scatter plots of input data.
+ - Scatter plots of input data.
 
-Fitted curves overlaid with error bands.
+ - Fitted curves overlaid with error bands.
 
-Histogram and Gaussian bell curves for statistical distributions.
-Getting Started
+ - Histogram and Gaussian bell curves for statistical distributions.
+ - Getting Started
 Prerequisites
 Ensure the following Python libraries are installed:
 
