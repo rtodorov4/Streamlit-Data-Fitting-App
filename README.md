@@ -78,12 +78,12 @@ x_values,y_values
 3,6.1
 4,7.5
 
-### Known Limitations
+## Known Limitations
  - Exponential Fit: Requires all y values to be positive.
  - Logarithmic Fit: Requires all x values to be positive.
  - Limited to one dataset at a time.
 
-### Future Enhancements
+## Future Enhancements
  - Support for additional curve types and fitting methods.
  - Improved user interface for managing datasets.
  - Export options for fitted curves and plots.
