@@ -4,7 +4,7 @@ This Curve Fitting App, built with Python and Streamlit, allows users to visuali
 
 ## Features:
 
-# Interactive Data Entry:
+### Interactive Data Entry:
 
 Manual input of x and y values.
 
@@ -12,7 +12,7 @@ Upload CSV files to import datasets.
 
 Rename chart titles and axes.
 
-# Curve Fitting Options:
+### Curve Fitting Options:
 
 Polynomial Fit: Fit data to a polynomial of user-defined degree.
 
@@ -22,13 +22,13 @@ Natural Logarithmic Fit: Fit data to a logarithmic curve (y = a + b ln(x)).
 
 Statistical Distribution Fit: Visualize data distributions with Gaussian curves.
 
-# Error Analysis:
+### Error Analysis:
 
 Calculates Maximum Error, Minimum Error, and Mean Absolute Error (MAE) for fitted curves.
 
 Displays error bands to visualize the range of deviation.
 
-# Dynamic Plotting:
+### Dynamic Plotting:
 
 Scatter plots of input data.
 
