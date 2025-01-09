@@ -88,6 +88,9 @@ x_values,y_values
  - Improved user interface for managing datasets.
  - Export options for fitted curves and plots.
 
+## License
+This project is licensed under the MIT license. 
+
 ## Acknowledgments
  - Built using Streamlit.
  - Thanks to the Python and data science community for their support and online resources.
