@@ -7,9 +7,7 @@ This Curve Fitting App, built with Python and Streamlit, allows users to visuali
 ### Interactive Data Entry:
 
  - Manual input of x and y values.
-
  - Upload CSV files to import datasets.
-
  - Rename chart titles and axes.
 
 ### Curve Fitting Options:
